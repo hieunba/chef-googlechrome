@@ -1,4 +1,3 @@
 # googlechrome
 
-TODO: Enter the cookbook description here.
-
+This cookbook helps to install Google Chrome from Enterprise deployment. Also enforces policies for users.
